@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "id": 4,
+      "userId": 1,
+      "email": "john@example.com",
+      "title": "New Blog",
+      "description": "working on the new blog",
+      "date": "6 March,2024"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "email": "john@example.com",
+      "title": "New Blog",
+      "description": "working on the new blog",
+      "date": "7 March,2024"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "email": "john@example.com",
+      "title": "Tailwind Css and it's usage",
+      "description": "Learn the basics of Tailwind CSS and how to efficiently style your web applications",
+      "date": "3/6/2024, 8:48:18 PM"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "email": "john@example.com",
+      "title": "Building Responsive UIs with React",
+      "description": "Explore techniques for building responsive user interfaces using React",
+      "date": "3/6/2024, 9:14:59 PM"
+    }
+  ]
+}
